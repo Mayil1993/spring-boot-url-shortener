@@ -1,4 +1,4 @@
-package com.techprimers.urlshortenerexample;
+package com.mayil1993.urlshortener;
 
 import com.google.common.hash.Hashing;
 import org.apache.commons.validator.routines.UrlValidator;
